@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\03.VariableHexadecimalFormat\bin\Debug\03.VariableHexadecimalFormat.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\03.VariableHexadecimalFormat\bin\Debug\03.VariableHexadecimalFormat.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\03.VariableHexadecimalFormat\bin\Debug\03.VariableHexadecimalFormat.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\03.VariableHexadecimalFormat\obj\Debug\03.VariableHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\03.VariableHexadecimalFormat\obj\Debug\03.VariableHexadecimalFormat.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\03.VariableHexadecimalFormat\obj\Debug\03.VariableHexadecimalFormat.pdb

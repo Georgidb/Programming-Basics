@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\04.UnicodeCharecter\bin\Debug\04.UnicodeCharecter.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\04.UnicodeCharecter\bin\Debug\04.UnicodeCharecter.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\04.UnicodeCharecter\bin\Debug\04.UnicodeCharecter.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\04.UnicodeCharecter\obj\Debug\04.UnicodeCharecter.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\04.UnicodeCharecter\obj\Debug\04.UnicodeCharecter.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\04.UnicodeCharecter\obj\Debug\04.UnicodeCharecter.csprojResolveAssemblyReference.cache

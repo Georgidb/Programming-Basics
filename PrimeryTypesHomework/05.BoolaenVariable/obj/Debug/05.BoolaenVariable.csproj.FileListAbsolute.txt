@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\05.BoolaenVariable\bin\Debug\05.BoolaenVariable.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\05.BoolaenVariable\bin\Debug\05.BoolaenVariable.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\05.BoolaenVariable\bin\Debug\05.BoolaenVariable.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\05.BoolaenVariable\obj\Debug\05.BoolaenVariable.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\05.BoolaenVariable\obj\Debug\05.BoolaenVariable.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\PrimitiveDatatypesHomework\05.BoolaenVariable\obj\Debug\05.BoolaenVariable.pdb
