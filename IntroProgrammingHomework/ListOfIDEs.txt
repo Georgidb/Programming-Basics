@@ -1,0 +1,116 @@
+1. Eclipse
+
+A free, open-source editor that was initially a Java environment but a variety of plug-ins have extended its capabilities considerably. The Eclipse Standard 4.3.2 version, for instance, includes the Eclipse Platform along with the tools required to debug it, plus Java and Plugin Development Tooling and Git and CVS support. If your requirements are different, you can choose from a variety of Eclipse Package Solutions, including tools for Java developers, Scout Developers, RCP and RAP Developers and more.
+
+Key Features:
+
+- Variety of Package Solutions for multi-language support
+- Easily switch context between perspectives
+- Mylyn provides a task-focused UI with system-tray notifications
+- Eclipse Java Development Tools
+- Eclipse Git Team Provider
+- Eclipse Plugin Development Environment
+- Excellent tooling options for JEE projects
+- JUnit integration
+- Ample plug-ins for extended capabilities
+
+
+2. NetBeans 
+
+NetBeans is a popular IDE for C and C++ projects. It also supports Fortan and Assembler files, with GNU Debugger Integration and code assistance, NetBeans is a functional IDE for editing existing projects, building on templates or building from scratch on most leading platforms. There are also multiple NetBeans Enterprise IDE Download Bundles with options that support several additional technologies, including Java, PHP, HTML5 and more.
+
+Key Features:
+
+- Remote development
+- Works on Windows, Linux, OS X, and Solaris platforms
+- Dynamic and static libraries
+- Drag-and-drop binary files to create new projects
+- Flexible Run and Debug commands
+- Multi-session GNU gdb debugger integration
+- Set a variety of breakpoints and view in Breakpoints window
+- Refactorings in Editor, Class View and Navigator
+- Unit testing capability
+- Qt Toolkit support
+- Supports Oracle Solaris Studio,  GNU, CLang/LLVM, Cygwin, and MinGW compilers
+
+
+3. Komodo
+
+Komodo is a comprehensive IDE that supports all major programming languages, providing a single tool that meets your development needs across the spectrum. Whether you’re working with Python, PHP, Ruby, Perl, HTML, CSS or JavaScript, Komodo provides a clean, intuitive interface with advanced editing capabilities and integrated tools for the most functionality.  
+
+Key Features:
+
+- Advanced editing features with split-view and multi-window editing
+- Version control integration for Subversion, Mercurial, Git, Perforce, Bazaar, CVS
+- Code profiling for Python and PHP
+- Code Collaboration for simultaneous team editing
+- Deploy and debug to the cloud with Stackato PaaS
+- Graphical debugging for PHP, Python, Perl, Ruby, Tcl, Node.js
+- Code intelligence with auto-complete and refactoring
+- Cross-platform with a consistent user experience across Mac, Linux and Windows
+- Multiple add-ons and customization options
+
+
+4. Microsoft Visual Studio
+
+Microsoft Visual Studio offers a multitude of editions for developing, testing, and deploying applications for the web, desktop, mobile, and even game consoles. With a plethora of testing and compatibility tools, you can test on virtual machines, tap into the functionality of BrowserStack to see what your app looks like across more than 300 browsers, run compatibility reports to identify patterns and issues between browsers and so much more.
+
+Key Features:
+
+- Dock or hide windows
+- Automate and extend your development environment
+- Intuitive workflow with logical file hierarchy
+- Text and code editors
+- Customize your dashboard
+- IntelliSense, refactoring and code snippet insertion
+- Hybrid view in select editors
+- Create build configurations for solutions and projects
+- Debugging during building process
+- Error list window for easy bug tracking
+- Deploy using ClickOnce or Windows Installer
+- Publish Wizard for easy deployment
+- Massive, always growing library of extensions
+
+
+5. Eric Python IDE
+
+A full-featured Ruby and Python editor and IDE, Eric Python IDE is written using Python and is based on the cross platform Qt GUI Toolkit. Editor control is enabled through Scintilla integration for robust flexibility. It’s intended for use both as a simple editor for last-minute and stand-alone editing tasks, as well as a professional project management tool.
+
+Key Features: 
+
+- Extend IDE functionality through plug-ins
+- Unlimited project editors
+- Customizable workflow layout
+- Autocomplete, code tips and code folding
+- Configurable syntax highlighting
+- Error highlighting
+- Interactive Ruby and Python Shells
+- Both Shells with syntax highlighting and autocompletion
+- Integrated Python and Ruby debuggers
+- Integrated task and project management
+- Application diagrams
+- Run external applications from within IDE
+- Python modules for maximum functionality
+
+
+6. Lazarus
+
+Lazarus enables you to create complex graphical interfaces on any platform. Create open source or commercial applications, including file browsers, database applications, graphics editing or 3D software, and more with more than 200 built-in components and multiple add-ons via Lazarus Package Files (LPKs)  to extend capabilities.
+
+Key Features: 
+
+- Runs on any platform
+- Create native-code console and graphical user interfaces for desktop
+- Also used for mobile apps, web apps, web services, visual components, function libraries
+- Can be used to develop apps for any platform supported by Free Pascal
+- WYSIWYG visual layout editor
+- Interactive code debugger
+- Code completion
+- Syntax highlighting
+- Refactoring
+- Context-relevant coding assistance
+- Lazarus Component Library (LCL) with cross-platform GUI widgets and visual components
+- Code templates
+- Reporting and charting
+- Data connectivity for  MySQL, PostgresSQL, FireBird, Oracle, SQLite, Sybase and more
+

@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\AgainSomeExercises\bin\Debug\AgainSomeExercises.exe.config
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\AgainSomeExercises\bin\Debug\AgainSomeExercises.exe
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\AgainSomeExercises\bin\Debug\AgainSomeExercises.pdb
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\AgainSomeExercises\obj\Debug\AgainSomeExercises.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\AgainSomeExercises\obj\Debug\AgainSomeExercises.exe
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\AgainSomeExercises\obj\Debug\AgainSomeExercises.pdb

@@ -1,0 +1,9 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\HelloCSharp\obj\Debug\04.HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\HelloCSharp\obj\Debug\HelloCSharp.pdb

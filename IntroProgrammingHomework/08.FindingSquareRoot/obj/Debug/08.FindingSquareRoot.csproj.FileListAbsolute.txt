@@ -1,0 +1,6 @@
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\08.FindingSquareRoot\bin\Debug\08.FindingSquareRoot.exe.config
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\08.FindingSquareRoot\bin\Debug\08.FindingSquareRoot.exe
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\08.FindingSquareRoot\bin\Debug\08.FindingSquareRoot.pdb
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\08.FindingSquareRoot\obj\Debug\08.FindingSquareRoot.csprojResolveAssemblyReference.cache
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\08.FindingSquareRoot\obj\Debug\08.FindingSquareRoot.exe
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\08.FindingSquareRoot\obj\Debug\08.FindingSquareRoot.pdb

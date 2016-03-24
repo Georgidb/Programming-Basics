@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\Again15\bin\Debug\Again15.exe.config
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\Again15\bin\Debug\Again15.exe
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\Again15\bin\Debug\Again15.pdb
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\Again15\obj\Debug\Again15.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\Again15\obj\Debug\Again15.exe
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\Again15\obj\Debug\Again15.pdb

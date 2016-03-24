@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IntroProgrammingHomework\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb

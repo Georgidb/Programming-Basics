@@ -1,0 +1,34 @@
+1. Java 
+
+Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. C# is based on Java and they have much in common. Both languages are simple, object-oriented, familiar, robust and secure. Java is suitable for creating many types of cross-platform applications that target the JVM including desktop business applications as well as Java applets which target all the major web browsers, while C# is most suitable for creating .Net Framework applications. This includes desktop business application using WinForms and websites using WebForms.
+
+
+2. Javascript
+
+Javascript is a high-level, dynamic, untyped, and interpreted programming language. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. C# and Javascript are object oriented languages, both have cross-platform usage. They have different Frameworks and databases types and design patterns. They have also different target audience. JavaScript is most commonly used to extend HTML by executing code on the browser side when visiting a website. It does have other uses including server side scripting and AJAX.
+
+
+3. Python
+
+Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java. The language provides constructs intended to enable clear programs on both a small and large scale. C# and Python support multiple programming paradigms, including object-oriented and functional programming styles. Both languages have Object-Relational Mapping and cross-platform usage. Both languages are suitable for web development, cloud computing, game developer industry, app development.
+
+
+4. C++
+
+C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.
+
+It was designed with a bias toward system programming and embedded, resource-constrained and large systems, with performance, efficiency and flexibility of use as its design highlights. C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications. C# and C++ are object oriented languages. By C# the pointer notation is thrown away, and all variables become hidden pointers (except for the value types, primitive types, due to performance reasons). They add forcibly garbage collection, metadata to your classes, all the objects will be derived from a base class, called object or Object. In comparison to C++, the access by C# to lower level APIs is complicated, which makes specialized performance requirements problematic. 
+
+
+5. PHP
+
+PHP  is a server-side scripting language designed for web development but also used as a general-purpose programming language. Originally created by Rasmus Lerdorf in 1994, the reference implementation of PHP (powered by the Zend Engine) is now produced by The PHP Group. While PHP originally stood for Personal Home Page, it now stands for PHP: Hypertext Preprocessor. As of January 2013, PHP was installed on more than 240 million websites (39% of those sampled) and 2.1 million web servers. C# is an OOP language (no global functions or variables) and is type-safe. You code using a fully OOP approach (everything is in a class), while PHP is a hybrid language with both traditional PHP and OOP features. C# is most suitable for creating .Net Framework applications. This includes desktop business application using WinForms and websites using WebForms, while PHP is most suitable for creating websites targeting any browser (any web server with PHP installed).
+
+
+
+6. C
+
+C is a general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations. By design, C provides constructs that map efficiently to typical machine instructions, and therefore it has found lasting use in applications that had formerly been coded in assembly language, including operating systems, as well as various application software for computers ranging from supercomputers to embedded systems. There is a fundamental principle in C that is not respected in any other language: complete binary data transparency. in C, you know exactly what you get with your data. It is more low level language than C# and can be used to develop Operating System or Driver, while with C# you create different applications. C# is object oriented language, while C is not.
+
+
+

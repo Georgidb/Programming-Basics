@@ -1,0 +1,5 @@
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\17.PlayDebuggerVS\bin\Debug\17.PlayDebuggerVS.exe.config
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\17.PlayDebuggerVS\bin\Debug\17.PlayDebuggerVS.exe
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\17.PlayDebuggerVS\bin\Debug\17.PlayDebuggerVS.pdb
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\17.PlayDebuggerVS\obj\Debug\17.PlayDebuggerVS.exe
+C:\Users\Georgi Balabanov\Desktop\Programirane\SoftUni\IntroHomework\17.PlayDebuggerVS\obj\Debug\17.PlayDebuggerVS.pdb
