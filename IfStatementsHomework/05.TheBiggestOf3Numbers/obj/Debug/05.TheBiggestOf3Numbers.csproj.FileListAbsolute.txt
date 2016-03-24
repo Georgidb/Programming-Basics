@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\05.TheBiggestOf3Numbers\obj\Debug\05.TheBiggestOf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\05.TheBiggestOf3Numbers\obj\Debug\05.TheBiggestOf3Numbers.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\05.TheBiggestOf3Numbers\obj\Debug\05.TheBiggestOf3Numbers.pdb

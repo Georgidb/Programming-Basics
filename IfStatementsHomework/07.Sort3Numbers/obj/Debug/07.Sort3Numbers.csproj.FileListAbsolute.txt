@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\07.Sort3Numbers\bin\Debug\07.Sort3Numbers.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\07.Sort3Numbers\bin\Debug\07.Sort3Numbers.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\07.Sort3Numbers\bin\Debug\07.Sort3Numbers.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\07.Sort3Numbers\obj\Debug\07.Sort3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\07.Sort3Numbers\obj\Debug\07.Sort3Numbers.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\07.Sort3Numbers\obj\Debug\07.Sort3Numbers.pdb

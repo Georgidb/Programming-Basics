@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb

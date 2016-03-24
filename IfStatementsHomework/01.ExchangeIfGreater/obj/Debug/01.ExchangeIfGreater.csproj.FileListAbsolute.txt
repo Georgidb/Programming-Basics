@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\01.ExchangeIfGreater\bin\Debug\01.ExchangeIfGreater.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\01.ExchangeIfGreater\bin\Debug\01.ExchangeIfGreater.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\01.ExchangeIfGreater\bin\Debug\01.ExchangeIfGreater.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\01.ExchangeIfGreater\obj\Debug\01.ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\01.ExchangeIfGreater\obj\Debug\01.ExchangeIfGreater.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\01.ExchangeIfGreater\obj\Debug\01.ExchangeIfGreater.pdb

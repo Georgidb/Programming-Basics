@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\06.BiggestOf5Numbers\bin\Debug\06.BiggestOf5Numbers.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\06.BiggestOf5Numbers\bin\Debug\06.BiggestOf5Numbers.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\06.BiggestOf5Numbers\bin\Debug\06.BiggestOf5Numbers.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\06.BiggestOf5Numbers\obj\Debug\06.BiggestOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\06.BiggestOf5Numbers\obj\Debug\06.BiggestOf5Numbers.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\IfStatementsHomework\06.BiggestOf5Numbers\obj\Debug\06.BiggestOf5Numbers.pdb
