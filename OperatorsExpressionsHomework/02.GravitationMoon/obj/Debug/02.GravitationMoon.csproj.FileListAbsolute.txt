@@ -1,0 +1,5 @@
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\02.GravitationMoon\bin\Debug\02.GravitationMoon.exe.config
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\02.GravitationMoon\bin\Debug\02.GravitationMoon.exe
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\02.GravitationMoon\bin\Debug\02.GravitationMoon.pdb
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\02.GravitationMoon\obj\Debug\02.GravitationMoon.exe
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\02.GravitationMoon\obj\Debug\02.GravitationMoon.pdb

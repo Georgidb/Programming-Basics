@@ -1,0 +1,5 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\05.ThirdDigit7\bin\Debug\05.ThirdDigit7.exe.config
+C:\Users\Georgi Balabanov\Documents\Visual Studio 2013\Projects\OperatorsExpressionsHomework\05.ThirdDigit7\bin\Debug\05.ThirdDigit7.exe
+C:\Users\Georgi Balabanov\Documents\Visual Studio 2013\Projects\OperatorsExpressionsHomework\05.ThirdDigit7\bin\Debug\05.ThirdDigit7.pdb
+C:\Users\Georgi Balabanov\Documents\Visual Studio 2013\Projects\OperatorsExpressionsHomework\05.ThirdDigit7\obj\Debug\05.ThirdDigit7.exe
+C:\Users\Georgi Balabanov\Documents\Visual Studio 2013\Projects\OperatorsExpressionsHomework\05.ThirdDigit7\obj\Debug\05.ThirdDigit7.pdb

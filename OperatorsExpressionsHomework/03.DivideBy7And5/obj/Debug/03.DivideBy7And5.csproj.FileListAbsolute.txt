@@ -1,0 +1,6 @@
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb

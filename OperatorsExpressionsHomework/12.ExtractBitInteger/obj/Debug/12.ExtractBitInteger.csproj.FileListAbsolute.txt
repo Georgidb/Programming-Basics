@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\12.ExtractBitInteger\bin\Debug\12.ExtractBitInteger.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\12.ExtractBitInteger\bin\Debug\12.ExtractBitInteger.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\12.ExtractBitInteger\bin\Debug\12.ExtractBitInteger.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\12.ExtractBitInteger\obj\Debug\12.ExtractBitInteger.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\12.ExtractBitInteger\obj\Debug\12.ExtractBitInteger.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\12.ExtractBitInteger\obj\Debug\12.ExtractBitInteger.pdb

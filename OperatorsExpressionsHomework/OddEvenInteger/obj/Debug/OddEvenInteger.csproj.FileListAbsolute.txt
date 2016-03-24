@@ -1,0 +1,6 @@
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\OddEvenInteger\bin\Debug\OddEvenInteger.exe.config
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\OddEvenInteger\bin\Debug\OddEvenInteger.exe
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\OddEvenInteger\bin\Debug\OddEvenInteger.pdb
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\OddEvenInteger\obj\Debug\OddEvenInteger.csprojResolveAssemblyReference.cache
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\OddEvenInteger\obj\Debug\OddEvenInteger.exe
+c:\users\georgi balabanov\documents\visual studio 2013\Projects\OperatorsExpressionsHomework\OddEvenInteger\obj\Debug\OddEvenInteger.pdb
