@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\09.MatrixNumbers\bin\Debug\09.MatrixNumbers.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\09.MatrixNumbers\bin\Debug\09.MatrixNumbers.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\09.MatrixNumbers\bin\Debug\09.MatrixNumbers.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\09.MatrixNumbers\obj\Debug\09.MatrixNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\09.MatrixNumbers\obj\Debug\09.MatrixNumbers.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\09.MatrixNumbers\obj\Debug\09.MatrixNumbers.pdb

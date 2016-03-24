@@ -1,0 +1,6 @@
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\05.Calculate\bin\Debug\05.Calculate.exe.config
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\05.Calculate\bin\Debug\05.Calculate.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\05.Calculate\bin\Debug\05.Calculate.pdb
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\05.Calculate\obj\Debug\05.Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\05.Calculate\obj\Debug\05.Calculate.exe
+C:\Users\Georgi Balabanov\documents\visual studio 2013\Projects\LoopsHomework\05.Calculate\obj\Debug\05.Calculate.pdb
